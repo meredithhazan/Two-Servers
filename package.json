@@ -1,0 +1,22 @@
+{
+  "name": "two-servers",
+  "version": "1.0.0",
+  "description": "creating two server apps",
+  "main": "twoservers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meredithhazan/Two-Servers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meredithhazan/Two-Servers/issues"
+  },
+  "homepage": "https://github.com/meredithhazan/Two-Servers#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
